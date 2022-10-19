@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi! I'm Hien👋
 [![@hien997's Holopin board](https://holopin.me/hien997)](https://holopin.io/@hien997)
 <!--
 **Hien997/Hien997** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
